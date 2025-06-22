@@ -1,0 +1,94 @@
+#box1{
+    width: 300px;
+    height: 200px;border: 2px;
+    border: 2px solid;
+    background-color: rgb(42, 136, 165);
+    margin-left: 3%;
+    text-align: center;
+    padding: 5%;
+    box-sizing: content-box;
+    border-radius: 7%;
+}
+h1{
+    color: black;
+}
+h3{
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#box2{
+    width: 200px;
+    height: 100px;
+    border: 2px solid;
+    background-color: blueviolet;
+    margin-left: 12%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+    border-radius: 8%;
+}
+#box3{
+    width: 90px;
+    height: 50px;
+    border: 2px solid;
+    background-color: olivedrab;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
+body{
+    background-color: greenyellow;
+}
+button{
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border: 10px;
+    background-color: black;
+}
+table{
+    tab-size: 50%;
+    color: black;
+    background-color: greenyellow;
+    border-radius: 7px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 7%;
+}
+img{
+    height: 200px;
+    border-radius: 7%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+ol{
+    list-style-type: none;
+}
+.navbar ul{
+    list-style: none;
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(14, 11, 11);
+}
+.navbar li {
+    float: left;
+}
